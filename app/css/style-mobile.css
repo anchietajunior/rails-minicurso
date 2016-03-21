@@ -154,3 +154,7 @@ p {
 .detail-row-container img:last-child {
     margin: 20px 0;
 }
+
+.intro-detail-row-2 {
+    width: 100%;
+}
