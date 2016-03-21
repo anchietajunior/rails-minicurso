@@ -83,7 +83,7 @@ body {
 
 .intro-block {
     margin: 0 auto;
-    width: 850px;
+    width: 65%;
     text-align: center;
     position: relative;
 }
@@ -125,7 +125,7 @@ body {
     text-align: center;
     font-size: 22pt;
     font-weight: bolder;
-    width: 800px;
+    width: 65%;
     margin: 0 auto;
     text-align: center;
     padding: 40px 0;
@@ -135,21 +135,12 @@ body {
     padding-top: 20px;
     padding-bottom: 50px;
     margin-bottom: 20px;
-    width: 100%;
+    max-width: 800px;
+    margin: 0 auto;
     clear: both;
     background-color: #36393B;
 }
 
-.intro-detail-row-2 p {
-    color: #fff;
-    text-align: center;
-    font-size: 22pt;
-    font-weight: bolder;
-    width: 800px;
-    margin: 0 auto;
-    text-align: center;
-    padding: 40px 0;
-}
 
 .content {
     padding-top: 30px;
